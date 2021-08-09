@@ -3,4 +3,4 @@ project(HomeWork19_5_5)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(HomeWork19_5_5 main.cpp)
+add_executable(HomeWork19_5_5 main.cpp functions.h functions.cpp)
